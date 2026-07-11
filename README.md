@@ -1,6 +1,6 @@
-<h1 align="center">Hi There, I'm Maycon Isac</h1>
+<h1 align="center">Hi There, I'm Maycon Isac👋</h1>
 
-## Software Engineering | Unity & C# Developer
+Software Engineering | Unity & C# Developer
 
 I am a Brazilian Game Development student passionate about software engineering and backend development, and I am gradually learning about cybersecurity.
 
@@ -22,10 +22,3 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 <p align="left"> <a href="https://www.github.com/Maky-Isac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/maycon-is" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/Maky-Isac" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Maky-Isac?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Maky-Isac"><img src="https://github-readme-stats.vercel.app/api?username=Maky-Isac&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="Maky-Isac's GitHub stats" /></a>
-
-<a href="http://www.github.com/Maky-Isac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maky-Isac&stroke=ffffff&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
