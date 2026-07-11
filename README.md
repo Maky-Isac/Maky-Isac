@@ -13,7 +13,6 @@ I'm passionate about software engineering, backend development, . My main focus 
 
 
 ## Software Engineering | Unity & C# Developer
--------------------------------------------
 
 I am a Brazilian Game Development student passionate about software engineering and backend development, and I am gradually learning about cybersecurity.
 
