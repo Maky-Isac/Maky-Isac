@@ -10,9 +10,9 @@ I'm passionate about software engineering, backend development, . My main focus 
 - 🌱 Learning design patterns, algorithms, and Clean Code principles.
 - 🧠 Using AI tools: Claude Code and Codex.
 
-====================================================================================================================================
 
-Software Engineering | Unity & C# Developer
+
+## Software Engineering | Unity & C# Developer
 -------------------------------------------
 
 I am a Brazilian Game Development student passionate about software engineering and backend development, and I am gradually learning about cybersecurity.
