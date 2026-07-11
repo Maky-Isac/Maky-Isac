@@ -1,16 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maycon Isac</h1>
-
-🎮 Game Development Student from Brazil.
-
-I'm passionate about software engineering, backend development, . My main focus is building scalable and maintainable applications using C# and Unity.
-
-## 🚀 Current Focus
-- 📚 Studying the fundamentals of Software Engineering and Computer Science.
-- 💻 Enhancing my knowledge of backend architecture, networking, and cybersecurity.
-- 🌱 Learning design patterns, algorithms, and Clean Code principles.
-- 🧠 Using AI tools: Claude Code and Codex.
-
-
+<h1 align="center">Hi There, I'm Maycon Isac</h1>
 
 ## Software Engineering | Unity & C# Developer
 
