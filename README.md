@@ -35,7 +35,7 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 </a>
 
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" title="Visual Studio" width="36" height="36" />
 </a>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
