@@ -13,11 +13,44 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 * 👥  I'm looking to collaborate on Unity Projects, Backend Development and Open Source
 * 💬  Ask me about Turning ideas into games and problems into organized code.
 
-# Tools
+# Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,python,vscode,visualstudio,unity,figma,ps,pr,azure,arduino" />
 </p>
+
+## 🛠 Frameworks & Game Development
+
+<p align="left">
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" width="36" height="36" />
+</a>
+
+<a href="https://unity.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/unity/FFFFFF" alt="Unity" title="Unity" width="36" height="36" />
+</a>
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+</a>
+
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" title="Visual Studio" width="36" height="36" />
+</a>
+
+<a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Azure" title="Azure" width="36" height="36" />
+</a>
 
 ### Socials
 
