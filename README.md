@@ -11,49 +11,6 @@ I'm passionate about software engineering, backend development, . My main focus 
 - 🧠 Using AI tools: Claude Code and Codex.
 
 
-
-
-
-ProfileMe.dev
-
-
-
-Introdução
-
-Habilidades
-
-Eventos sociais
-
-Distintivos
-
-Apoio
-Vá para casa
-© Dan Cranney 2026
-
-Me siga
-|
-Me Pague um Café
-Apoio
-Facilite para as pessoas que usam seus produtos apoiarem você ou façam doações.
-
-
-Anterior
-buymeacoffee
-Me Pague um Café:
-Seu Nome
-kofi
-Ko-fi:
-seu nome
-
-Anterior
-
-Reordenar Seções
-
-Prévia
-
-Markdown
-
-Cópia
 Oi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Maycon Isaac
 ====================================================================================================================================
 
@@ -83,4 +40,3 @@ src="https://img.shields.io/github/followers/Maky-Isac?logo=github&style=for-the
 
 <a href="http://www.github.com/Maky-Isac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maky-Isac&stroke=ffffff&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-ProfileMe.dev | Crie um perfil incrível no GitHub em minutos
