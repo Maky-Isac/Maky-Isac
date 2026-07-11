@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Maycon Isac
+<h1 align="center">Hi 👋, I'm Maycon Isac</h1>
 
 🎮 Game Development Student from Brazil.
 
@@ -11,7 +11,7 @@ I'm passionate about software engineering, backend development, . My main focus 
 - 🧠 Using AI tools: Claude Code and Codex.
 
 
-<h1 align="center">Hi 👋, I'm Maky Isac</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
