@@ -13,7 +13,7 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 * 👥  I'm looking to collaborate on Unity Projects, Backend Development and Open Source
 * 💬  Ask me about Turning ideas into games and problems into organized code.
 
-## 🛠 Tools
+# Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,python,vscode,visualstudio,unity,figma,ps,pr,azure,arduino" />
