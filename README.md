@@ -16,7 +16,7 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 # Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,python,claude,vscode,visualstudio,unity,figma,ps,pr,azure,arduino" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,python,git,gitlab,vscode,visualstudio,unity,figma,ps,pr,azure,arduino" />
 </p>
 
 ### Socials
