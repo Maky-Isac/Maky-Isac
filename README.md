@@ -13,7 +13,7 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 * 👥  I'm looking to collaborate on Unity Projects, Backend Development e Open Source
 * 💬  Ask me about Turning ideas into games and problems into organized code.
 
-<p align="left">
+<p align="left" style="text-decoration:none;">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
 </a>
