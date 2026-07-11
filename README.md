@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Maycon Isac👋</h1>
 
-# Software Engineering | Unity & C# Developer
+# Software Engineering Student | Unity & C# Developer
 
 I am a Brazilian Game Development student passionate about software engineering and backend development, and I am gradually learning about cybersecurity.
 
