@@ -30,7 +30,7 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
     </picture>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <a href="https://www.linkedin.com/in/maycon-is" target="_blank" rel="noreferrer">
     <picture>
