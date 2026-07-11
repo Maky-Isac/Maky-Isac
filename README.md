@@ -10,7 +10,6 @@ I'm passionate about software engineering, backend development, . My main focus 
 - 🌱 Learning design patterns, algorithms, and Clean Code principles.
 - 🧠 Using AI tools: Claude Code and Codex.
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maycon Isac
 ====================================================================================================================================
 
 Software Engineering | Unity & C# Developer
