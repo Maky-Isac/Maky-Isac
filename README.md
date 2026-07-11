@@ -14,7 +14,7 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 * 💬  Ask me about Turning ideas into games and problems into organized code.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,python,vscode,visualstudio,unity,blender,figma,ps,pr,azure,arduino,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,git,github,python,vscode,visualstudio,unity,figma,ps,pr,azure,arduino" />
 </p>
 
 ### Socials
