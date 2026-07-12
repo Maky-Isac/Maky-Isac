@@ -8,7 +8,6 @@ My primary programming language is C#, and I am learning C++ for use in competit
 
 I constantly seek to improve my knowledge of object-oriented programming, software architecture, design patterns, networking, and clean code principles. I believe that writing well-structured, maintainable code is just as important as making the software work.
 
-* ✉️  You can contact me at [maycon.is.inf@gmail.com](mailto:maycon.is.inf@gmail.com)
 * 🧠  I'm currently learning C# + .NET, C++ (POO), Cyber Security, Unity Networking, Software Architecture, Clean Code
 * 👥  I'm looking to collaborate on Unity Projects, Backend Development and Open Source
 * 💬  Ask me about Turning ideas into games and problems into organized code.
