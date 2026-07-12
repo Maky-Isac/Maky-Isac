@@ -22,18 +22,23 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 ### Socials
 
 <p align="left">
-  <a href="https://github.com/Maky-Isac">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/maycon-is">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn">
-  </a>
+<a href="https://github.com/Maky-Isac">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://gitlab.com/Maky-Isac">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/maycon-is">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:maycon.is.inf@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Maky-Isac)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/Maky-Isac)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/maycon-is)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maycon.is.inf@gmail.com)
 
 <a href="https://www.github.com/Maky-Isac" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Maky-Isac?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" />
