@@ -1,7 +1,8 @@
 <h1 align="center">Hello world, I'm Maycon Isac</h1>
 
-<h1 align="center">
+<h3 align="center">
 # Software Engineering Student • Unity & C# Developer
+</h3>
   
 I am a Brazilian Game Development student passionate about software engineering and backend development, and I am gradually learning about cybersecurity.
 
