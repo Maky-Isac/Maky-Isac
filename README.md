@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm Maycon Isac</h1>
 
 <h3 align="center">
-# Software Engineering Student • Unity & C# Developer
+Software Engineering Student • Unity & C# Developer
 </h3>
   
 I am a Brazilian Game Development student passionate about software engineering and backend development, and I am gradually learning about cybersecurity.
@@ -31,3 +31,9 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
 <a href="https://www.github.com/Maky-Isac" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Maky-Isac?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" />
 </a>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maky-Isac&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maky-Isac&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
