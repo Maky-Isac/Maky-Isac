@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hello world, I'm Maycon Isac</h1>
 
 # Software Engineering Student | Unity & C# Developer
@@ -19,7 +23,7 @@ I constantly seek to improve my knowledge of object-oriented programming, softwa
   <img src="https://skillicons.dev/icons?i=cs,cpp,git,vscode,visualstudio,unity,azure,dotnet,arduino,figma,pr" />
 </p>
 
-### Socials
+### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maky-Isac)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Maky-Isac)
