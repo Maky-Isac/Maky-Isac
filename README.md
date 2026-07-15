@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
-
 <h1 align="center">Hello world, I'm Maycon Isac</h1>
 
-# Software Engineering Student | Unity & C# Developer
-
+<h1 align="center">
+# Software Engineering Student • Unity & C# Developer
+  
 I am a Brazilian Game Development student passionate about software engineering and backend development, and I am gradually learning about cybersecurity.
 
 My primary programming language is C#, and I am learning C++ for use in competitions.
